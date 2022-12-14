@@ -1,4 +1,3 @@
-# NFT mobile app
+# Crypto Tracker-Mobile App
+# App UI - [https://i.ibb.co/fvGRBYV/Crypto-Tracker.png](https://i.ibb.co/fvGRBYV/Crypto-Tracker.png)
 
-[App UI](https://ibb.co/MgPMxWg)
-(https://ibb.co/dMGWK6Y)
